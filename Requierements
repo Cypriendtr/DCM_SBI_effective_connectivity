@@ -1,0 +1,9 @@
+Requierement
+
+numpy                     1.20.3
+numpy-base                1.24.3
+pandas                    2.0.2  
+matplotlib                3.4.3 
+torch                     2.0.1 
+seaborn                   0.11.2
+sbi                       0.21.0     
